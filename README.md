@@ -1,6 +1,6 @@
 # Next.JS-Study
 
-[![Build Status](https://travis-ci.org/sangumee/Next.JS-Study.svg?branch=master)](https://travis-ci.org/sangumee/Next.JS-Study) ![](https://img.shields.io/badge/Code%20Statue-Close-red.svg)
+![](https://img.shields.io/badge/Code%20Statue-Close-red.svg)
 
 ## Introduction
 
